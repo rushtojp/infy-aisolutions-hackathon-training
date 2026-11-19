@@ -33,6 +33,32 @@ Deploy your application in production
   https://docs.databricks.com/aws/en/generative-ai/tutorials/agent-quickstart
   https://www.youtube.com/watch?v=99T20B5c5Ww
 
+reference links
+
+https://learn.microsoft.com/azure/foundry/agents/overview
+https://learn.microsoft.com/azure/ai-foundry/agents/concepts/tool-catalog
+https://github.com/Azure-Samples/microsoft-foundry-baseline
+https://learn.microsoft.com/agent-framework/overview/
+https://github.com/microsoft/agent-framework
+https://github.com/microsoft/Agent-Framework-Samples
+https://learn.microsoft.com/agent-framework/workflows/agents-in-workflows
+https://learn.microsoft.com/azure/architecture/ai-ml/guide/ai-agent-design-patterns
+https://learn.microsoft.com/azure/foundry/agents/concepts/workflow
+https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/agent-to-agent
+https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/enable-agent-to-agent-endpoint
+https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/single-agent-multiple-agents
+https://azure.microsoft.com/en-us/blog/agent-factory-the-new-era-of-agentic-ai-common-use-cases-and-design-patterns/
+https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/
+https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/multiple-agent-workflow-automation
+https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/business-strategy-plan
+https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/ai-template-get-started
+https://github.com/microsoft-foundry/foundry-samples
+https://github.com/microsoft/ai-agents-for-beginners
+https://learn.microsoft.com/azure/foundry/observability/concepts/trace-agent-concept
+https://learn.microsoft.com/azure/foundry/concepts/observability
+https://learn.microsoft.com/en-us/training/modules/aaai-implement-multi-agent-orchestration-azure-ai-foundry/
+https://learn.microsoft.com/en-us/training/modules/develop-multi-agent-azure-ai-foundry
+
 
 
 
